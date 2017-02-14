@@ -1,0 +1,27 @@
+fg_pet_manager_homepage:
+    path:     /
+    defaults: { _controller: FGPetManagerBundle:PetManager:index }
+fg_pet_manager_add:
+    path:     /add
+    defaults: { _controller: FGPetManagerBundle:PetManager:add }
+fg_pet_manager_edit:
+    path:     /edit/{id}
+    defaults:
+        _controller: FGPetManagerBundle:PetManager:edit 
+    requirements :
+        id: \d+
+fg_pet_manager_view:
+    path:     /view/{id}
+    defaults:
+      _controller: FGPetManagerBundle:PetManager:view
+    requirements:
+      id: \d+
+fg_pet_manager_type_add:
+    path:     /type/add
+    defaults: { _controller: FGPetManagerBundle:PetManager:addMascotteType }
+fg_pet_manager_type_edit:
+    path:     /type/edit/{id}
+    defaults:
+        _controller: FGPetManagerBundle:PetManager:editMascotteType
+    requirements:
+        id: \d+

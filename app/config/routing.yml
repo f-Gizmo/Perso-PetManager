@@ -1,0 +1,7 @@
+fg_pet_manager:
+    resource: "@FGPetManagerBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

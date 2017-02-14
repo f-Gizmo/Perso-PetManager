@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Masco",
+				"MascotteType"
+			],
+			[
+				"Masc",
+				"MascotteType"
+			],
+			[
+				"liste",
+				"listMagiques"
+			],
+			[
+				"bl",
+				"block.\tblock (block)"
+			],
+			[
+				"FG",
+				"FGPetManagerBundle"
+			],
+			[
+				"ct",
+				"ctype_digit"
+			],
+			[
+				"redi",
+				"redirect"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"INVALIDE",
+				"AUTEUR_INVALIDE"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"no",
+				"nombreCaracteres"
+			],
+			[
+				"_",
+				"__DIR__"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"if",
+				"if?\t$… = ( … ) ? … : …"
+			],
+			[
+				"HTTPR",
+				"httpResponse"
+			],
+			[
+				"route",
+				"route"
+			],
+			[
+				"fora",
+				"foreach\tforeach …"
+			],
+			[
+				"HTTPRE",
+				"httpRequest"
+			],
+			[
+				"setco",
+				"setcookie"
+			],
+			[
+				"pdo",
+				"PDOException"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"base",
+				"baseName"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"tri",
+				"trigger_error"
+			],
+			[
+				"spl",
+				"spl_autoload_functions"
+			],
+			[
+				"c",
+				"class\tclass …"
+			],
+			[
+				"platform",
+				"PlatformBundle"
+			],
+			[
+				"s",
+				"stylesheets"
+			],
+			[
+				"blo",
+				"block.\tblock (block)"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"conten",
+				"mime_content_type"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"pa",
+				"PlatformBundle"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"spl_",
+				"spl_autoload_register"
+			],
+			[
+				"type",
+				"judy_type"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fet",
+				"fetchColumn"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"perso",
+				"perso"
+			],
+			[
+				"nom",
+				"nom"
+			],
+			[
+				"PER",
+				"PERSONNAGE_FRAPPE"
+			],
+			[
+				"PERSONNA",
+				"PERSONNAGE_TUE"
+			],
+			[
+				"setDet",
+				"setDegats"
+			],
+			[
+				"set",
+				"setDegats"
+			],
+			[
+				"personn",
+				"personnageAFrapper"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"var_",
+				"var_dump"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"FROCE",
+				"FORCE_PETITE"
+			],
+			[
+				"personnag",
+				"Personnage"
+			],
+			[
+				"personna",
+				"personnage"
+			],
+			[
+				"experience",
+				"_experience"
+			],
+			[
+				"Perso",
+				"personnage"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"off",
+				"offre_product"
+			],
+			[
+				"displ",
+				"displayName"
+			],
+			[
+				"offre",
+				"offre_product"
+			],
+			[
+				"id",
+				"id_product"
+			],
+			[
+				"produit",
+				"produit_offre"
+			],
+			[
+				"prodc",
+				"product_link"
+			],
+			[
+				"image",
+				"imagelink"
+			],
+			[
+				"link",
+				"link_rewrite"
+			],
+			[
+				"var_du",
+				"var_dump"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"obj",
+				"is_object"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"id_po",
+				"id_produit"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"produ",
+				"id_product"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"block",
+				"Snippet: block"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"class",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"classe",
+				"Copy Class Name"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"class\t",
+				"Snippet: class …"
+			],
+			[
+				"class\t\t",
+				"Snippet: Class"
+			],
+			[
+				"calss",
+				"Snippet: Class Variable"
+			],
+			[
+				"bro",
+				"Browse Mode..."
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: Satisfy Dependencies",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Control: Satisfy Dependencie",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Package Control: Satisfy Dependencies",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp/www/PetManager",
+		"/D/wamp/www/PetManager/app",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/views",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/views/Default",
+		"/D/wamp/www/PetManager/tests/AppBundle",
+		"/D/wamp/www/PetManager/vendor",
+		"/D/wamp/www/PetManager/vendor/symfony/security-bundle",
+		"/D/wamp/www/PetManager/web"
+	],
+	"file_history":
+	[
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Entity/Mascotte.php",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Entity/MascotteType.php",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/views/Default/index.html.twig",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Controller/PetManagerController.php",
+		"/D/wamp/www/PetManager/composer.json",
+		"/D/wamp/www/PetManager/--composer.json",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/views/Default/petList.html.twig",
+		"/D/wamp/www/PetManager/composer.lock",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Repository/MascotteRepository.php",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/views/Default/view.html.twig",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Resources/config/routing.yml",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Entity/MascotteType.php~",
+		"/D/wamp/www/PetManager/app/Resources/views/layout.html.twig",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Controller/DefaultController.php",
+		"/D/wamp/www/PetManager/src/FG/PetManagerBundle/Entity/Mascotte.php~",
+		"/D/wamp/www/OCFram/App/Backend/Modules/News/NewsController.php",
+		"/D/wamp/www/OCFram/App/Backend/Config/routes.xml",
+		"/D/wamp/www/OCFram/App/Backend/Modules/News/Views/insert.php",
+		"/D/wamp/www/index.php",
+		"/D/wamp/www/PetManager/app/config/parameters.yml",
+		"/D/wamp/www/OCFram/App/Backend/Modules/News/Views/index.php",
+		"/D/wamp/www/OCFram/App/Backend/backendApplication.php",
+		"/D/wamp/www/OCFram/App/Frontend/FrontendApplication.php",
+		"/D/wamp/www/OCFram/App/Backend/Modules/Connexion/ConnexionController.php",
+		"/D/wamp/www/OCFram/lib/OCFram/User.php",
+		"/D/wamp/www/OCFram/App/Frontend/Modules/News/NewsController.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/NewsManagerPDO.php",
+		"/D/wamp/www/OCFram/App/Frontend/Templates/layout.php",
+		"/D/wamp/www/OCFram/App/Frontend/Config/routes.xml",
+		"/D/wamp/www/OCFram/App/Backend/Modules/Connexion/Views/index.php",
+		"/D/wamp/www/OCFram/Web/.htaccess",
+		"/D/wamp/www/OCFram/App/Backend/Modules/Connexion/View/index.php",
+		"/D/wamp/www/OCFram/Web/bootstrap.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/NewsManager.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/CommentsManagerPDO.php",
+		"/D/wamp/www/OCFram/App/Backend/Modules/News/View/index.php",
+		"/D/wamp/www/OCFram/App/Backend/Modules/Connexion/View/formConnexion.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Managers.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Manager.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Entity/Comment.php",
+		"/D/wamp/www/OCFram/App/Frontend/Modules/News/Views/insertComment.php",
+		"/D/wamp/www/OCFram/App/Frontend/Modules/News/Views/show.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/CommentsManager.php",
+		"/D/wamp/www/OCFram/App/Frontend/Modules/News/Views/insert_comment.php",
+		"/D/wamp/www/OCFram/App/Backend/Config/app.xml",
+		"/D/wamp/www/OCFram/App/Backend/Templates/layout.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Router.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Page.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Application.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/CommentManager.php",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/CommentManager",
+		"/D/wamp/www/OCFram/lib/Vendors/Model/CommentManagerPDO",
+		"/D/wamp/www/OCFram/lib/OCFram/HTTPResponse.php",
+		"/D/wamp/www/OCFram/App/Frontend/Modules/News/Views/index.php",
+		"/D/wamp/www/OCFram/App/Frontend/Config/app.xml",
+		"/D/wamp/www/OCFram/lib/Vendors/Entity/News.php",
+		"/D/wamp/www/OCFram/lib/OCFram/SplClassLoader.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Route.php",
+		"/D/wamp/www/OCFram/lib/OCFram/PDOFactory.php",
+		"/D/wamp/www/OCFram/lib/OCFram/HTTPRequest.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Config.php",
+		"/D/wamp/www/OCFram/lib/OCFram/Entity.php",
+		"/D/wamp/www/OCFram/lib/OCFram/BackController.php",
+		"/D/wamp/www/OCFram/lib/OCFram/ApplicationComponent.php",
+		"/D/wamp/www/OCFram/App/Errors/404.html",
+		"/D/wamp/www/OCFram/App/Frontend/Config/route.xml",
+		"/D/wamp/www/OCFram/lib/OCFram/page.php",
+		"/D/wamp/www/OCFram/Web/.htacces",
+		"/D/wamp/www/OCFram/lib/OCFrame/Router.php",
+		"/D/wamp/www/OCFram/lib/OCFrame/HTTPRequest.php",
+		"/D/wamp/www/OCFram/lib/OCFrame/BackController.php",
+		"/D/wamp/www/OCFram/lib/OCFrame/ApplicationComponent.php",
+		"/D/wamp/www/OCFram/lib/OCFrame/Route.php",
+		"/D/wamp/www/OCFram/lib/OCFrame/Application.php",
+		"/D/wamp/www/OCFram/lib/OCFram/application.php",
+		"/D/wamp/www/PetManager/class/Mascotte.php",
+		"/D/wamp/www/PetManager/class/ManagerMascotte.php",
+		"/D/wamp/www/PetManager/index.php",
+		"/D/wamp/www/PetManager/class/pdofactory.php",
+		"/D/wamp/www/ventechenil/wp-includes/compat.php",
+		"/D/wamp/www/PetManager/class/ManagerMascote.php",
+		"/D/wamp/www/PetManager/class/Mascote.php",
+		"/D/wamp/www/ventechenil/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php",
+		"/D/wamp/www/ventechenil/wp-content/themes/twentyseventeen/archive.php",
+		"/D/wamp/www/ventechenil/wp-content/themes/twentyseventeen/front-page.php",
+		"/D/wamp/www/ventechenil/wp-content/themes/twentyseventeen/template-parts/post/content.php",
+		"/D/wamp/www/poo/index.php",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/layout.html.twig",
+		"/D/wamp/www/symfony/app/Resources/views/layout.html.twig",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/config/routing.yml",
+		"/D/wamp/www/symfony/src/PlatformBundle/Controller/AdvertController.php",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Advert/menu.html.twig",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Advert/index.html.twig",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Advert/view.html.twig",
+		"/D/wamp/www/symfony/app/AppKernel.php",
+		"/D/wamp/www/symfony/composer.json",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/config/services.yml",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Advert/add.html.twig",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Advert/form.html.twig",
+		"/D/wamp/www/symfony/app/config/routing.yml",
+		"/D/wamp/www/symfony/web/app.php",
+		"/D/wamp/www/symfony/web/app_dev.php",
+		"/D/wamp/www/symfony/src/PlatformBundle/Controller/DefaultController.php",
+		"/D/wamp/www/symfony/src/PlatformBundle/Resources/views/Default/index.html.twig",
+		"/D/wamp/www/symfony/src/PlatformBundle/PlatformBundle.php",
+		"/D/wamp/www/symfony2/web/app.php",
+		"/D/wamp/www/jeu/class/managerpersonnage.php",
+		"/D/wamp/www/jeu/class/personnage.php",
+		"/D/wamp/www/jeu/index.php",
+		"/D/wamp/www/symfony2/src/AppBundle/AppBundle.php",
+		"/D/wamp/www/jeu/class/connect.php",
+		"/D/wamp/www/poo/class/personnage.php",
+		"/D/wamp/www/jeu/class/personnages.php",
+		"/D/wamp/www/poo/class/personnagesManager.php",
+		"/D/wamp/www/poo/class/personnagesManager",
+		"/D/wamp/www/poo/class/compteur.php",
+		"/D/wamp/www/magento2/app/code/Pfay/Contacts/etc/module.xml",
+		"/D/wamp/www/magento2/app/code/Pfay/Contacts/registration.php",
+		"/D/wamp/www/magento2/app/code/Pfay/Contacts/Controller/Test/Index.php",
+		"/D/wamp/www/magento2/app/code/Pfay/Contacts/etc/routes.xml",
+		"/D/wamp/www/magento2/var/report/2123819116",
+		"/D/wamp/www/magento2/app/bootstrap.php",
+		"/D/wamp/www/magento2/app/etc/config.php",
+		"/D/wamp/www/prestashop/themes/carptour/product-list.tpl",
+		"/D/wamp/www/prestashop/modules/blockbestsellers/views/templates/hook/index.php",
+		"/D/wamp/www/prestashop/modules/blockbestsellers/views/templates/hook/tab.tpl",
+		"/D/wamp/www/prestashop/modules/offrejour/css/offrejour.css",
+		"/D/wamp/www/prestashop/modules/homefeatured/views/templates/hook/homefeatured.tpl"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"OCFram",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")*/);\n",
+			"();\n",
+			"');\n",
+			"type",
+			"finByType",
+			"basen",
+			"var_dump",
+			"module",
+			"PDOFactory",
+			"executeInsertComment",
+			"\n\t",
+			"const",
+			" \n",
+			"404",
+			"}",
+			"var",
+			"user",
+			"page",
+			"ocframe",
+			");\n",
+			";\n",
+			"urlImage",
+			"return",
+			"entry-meta",
+			"), ",
+			";\n",
+			");\n",
+			"}\n",
+			"construc",
+			"setforcePerso",
+			"']);\n",
+			");\n",
+			" \n",
+			"offre_jour",
+			"$quick_view",
+			"quick-view-wrapper-mobile",
+			")}\n",
+			">\n",
+			"{*",
+			">\n",
+			"getPrice",
+			"getPriceStatic",
+			"getPrice",
+			"special",
+			"product",
+			"smarty",
+			"};\n",
+			"langua",
+			"id_language",
+			"context",
+			"$product",
+			"link_rewrite",
+			"$product",
+			";\n",
+			"$smarty",
+			"htmlcontent_top",
+			"$prd.name",
+			"var_dump($produit_offre->link_rewrite);",
+			");\n",
+			"rewrite",
+			"getimages",
+			"link",
+			"image",
+			"cover",
+			"$link",
+			"new product\n",
+			";\n",
+			"Image",
+			"getImag",
+			"getImage",
+			"image",
+			"product",
+			"$row",
+			"getprodu",
+			"getProduct",
+			"get",
+			"ById",
+			"byid",
+			"getBestSellers",
+			"product",
+			"$link",
+			"$special",
+			"product:",
+			"product::",
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$product"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Mascotte.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"classe",
+				"D:\\wamp\\www\\poo\\class\\personnage.php"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
